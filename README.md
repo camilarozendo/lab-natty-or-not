@@ -14,7 +14,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é sobre o impacto revolucionário das Inteligências Artificiais (IAs) Generativas no nosso dia a dia e como elas moldarão o futuro. Ele explora de forma curta e simples como essas IAs estão mudando a maneira como interagimos com a tecnologia e como podemos esperar que elas influenciem ainda mais nossa vida no futuro.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://files.fm/u/a9x5pj5cw2#/view/xxj4aqaumm)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
